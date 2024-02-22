@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Great Gatsby - Review and Summary</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  p {
+    line-height: 1.6;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>The Great Gatsby</h1>
+  <p>A Review and Summary</p>
+</header>
+
+<div class="container">
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>"The Great Gatsby" is a novel written by F. Scott Fitzgerald, first published in 1925. It is set in the summer of 1922 in the fictional town of West Egg on Long Island, New York.</p>
+  </section>
+  
+  <section id="summary">
+    <h2>Summary of the Plot</h2>
+    <p>The novel is narrated by Nick Carraway, a young man who moves to West Egg and becomes involved with his mysterious neighbor Jay Gatsby. Gatsby is known for his extravagant parties and is revealed to be in love with Nick's cousin, Daisy Buchanan. The story follows Gatsby's pursuit of Daisy and the tragic consequences that unfold.</p>
+  </section>
+  
+  <section id="themes">
+    <h2>Themes</h2>
+    <ul>
+      <li>The American Dream</li>
+      <li>Wealth and Class</li>
+      <li>Love and Desire</li>
+      <li>Illusion vs. Reality</li>
+      <li>Morality and Corruption</li>
+    </ul>
+  </section>
+  
+  <section id="characters">
+    <h2>Character Descriptions</h2>
+    <p><strong>Jay Gatsby:</strong> A wealthy and mysterious man who throws lavish parties in hopes of winning back his lost love, Daisy Buchanan.</p>
+    <p><strong>Daisy Buchanan:</strong> Nick's cousin and Gatsby's love interest, she is married to Tom Buchanan but still has feelings for Gatsby.</p>
+    <p><strong>Nick Carraway:</strong> The novel's narrator, he moves to West Egg and becomes entangled in Gatsby's world.</p>
+    <p><strong>Tom Buchanan:</strong> Daisy's husband, he is wealthy and arrogant, with a volatile temper.</p>
+  </section>
+  
+  <section id="conclusion">
+    <h2>Conclusion</h2>
+    <p>"The Great Gatsby" is a timeless classic that explores the themes of love, wealth, and the pursuit of the American Dream. Through its vivid characters and evocative prose, Fitzgerald's novel continues to captivate readers and offer insights into the human condition.</p>
+  </section>
+</div>
+
+<footer>
+  <p>&copy; 2024 TheGreatGatsby.com | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
+
